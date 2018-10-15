@@ -1,8 +1,6 @@
-# **Nicholas Robbins' Portfolio**
 
-
-
- [About Me](https://telden.github.io/AboutMe)
+ **[About Me](https://nicholasrobbins.github.io/AboutMe)**
+ ------
 
 ## **Eye Lasers - Game Maker's Toolkit Game Jam 2018**
 **Local Competitive**  |  **(Unity 2017, C#)**  |  **Team Size: 2**  |  **2018** 
@@ -28,6 +26,8 @@ This game's main mechanic inspired by the jam's theme of "transmission" has the 
 
 ## **RV Punch**
 **Action Racing-Game**  |  **(Unity 2017, C#)**  |  **Team Size: 8**  |  **2018** 
+
+### **[Multiple Award Winner](https://nicholasrobbins.github.io/RvPunchAwards)**
    
 Players punch their opponents out of their way in this up to four player racing game, where they race as different model RVs equppied with giant mech fists. These fists act as the game's main mechanic which can be used to punch other racers off the track or stun them, activate or break objects within the racetrack environment, and even "jump" off the walls by punching them. 
 
