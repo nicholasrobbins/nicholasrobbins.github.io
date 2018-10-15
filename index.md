@@ -34,7 +34,8 @@ Players punch their opponents out of their way in this up to four player racing 
 
 Project made within Champlain College's Production 2 course.
 
-![RV Punch Gif](https://media.giphy.com/media/7w4u8IjWbxuj3vWyKL/giphy.gif)
+[![RV Punch Gif](https://media.giphy.com/media/fQMHhFbXYS15GWVcC8/giphy.gif)](https://www.youtube.com/watch?v=mn1Y-4wrkfY "RV Punch")
+
 
 _Currently under development_
 
