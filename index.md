@@ -1,6 +1,6 @@
 
- **[About Me](https://nicholasrobbins.github.io/AboutMe)**
- ------
+## **[About Me](https://nicholasrobbins.github.io/AboutMe)**
+ 
 
 ## **Eye Lasers - Game Maker's Toolkit Game Jam 2018**
 **Local Competitive**  |  **(Unity 2017, C#)**  |  **Team Size: 2**  |  **2018** 
