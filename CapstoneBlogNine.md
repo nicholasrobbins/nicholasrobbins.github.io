@@ -1,4 +1,4 @@
-Tools Being Used and the Fedback From It
+Tools Being Used and the Feedback From It
 ------
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This week I got more work done on the different enemy AI and how they interact with the player. When I began work on them however, I rand into some unforeseen bugs when interacting with the pathing system with the new AI that I was making. At this point, the pathing system that I have made has had trouble in the past, but I've become very antiquated with how the code works after fixing and updating it multiple times. In this case, fining the bug and fixing it took very little time. The problem came from if a new node that was put into the level did not create any new connections, the system would not reset properly because no path was found, which caused the other paths after checking for this node not to work. So I'm happy that it was not a serious issue with the pathfinding itself.
