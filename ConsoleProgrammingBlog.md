@@ -15,10 +15,17 @@ Schedule:
 
 For the breakdown of the project, I have to keep in mind that there is overall only three months to make this tool, while also including my other classes and tasks, I do not want to take away from my other projects.
 
-* **Febuary 15th -** All current unknowns have been researched and now are known. Anything that is found to be too large in scope will probably be cut in favor for some other feature or for more time to work on refining the main systems.
-* **March 8th -** All initial features have been at least prototyped. Some bugs may be still present but the system should be useable.
-* **April 1st -** All core features have been polished, and any stretch goals have been started.
-* **April 19th -** Features of the project are complete, only bug fixing should remain.
+
+
+* **Febuary 15th -** All current unknowns have been researched and now are known. C# reflection is implemented and has been tailored to get rid of all unnecessary variables and public functions. 
+* **Febuary 22nd -** Users can select what varaibles that they can have tracked along with specific game events which will output to an external file.
+* **March 1st -** Allow the user to read in the data created back into the editor to create a visual representation (such as a heatmap) of their data.
+* **March 8th -** Create the first iteration of the significance testing application to allow for user studies by using the tool.
+* **March 22nd -** Polish week of core systems.
+* **April 5th -** Research for stretch goals have been completed and their construction has been planned.
+* **April 12th -** Finish stretch goals implementation.
+* **April 19th -** Overall systems bugs fixing.
+* **April 26th -** Complete Application should be completed save for any last bugs to be fixed.
 * **Exam Week -** Product is completed.
 
 Backup Plans:
