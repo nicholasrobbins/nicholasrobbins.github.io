@@ -15,9 +15,7 @@ Senior Capstone Production Blog
 ### **[Blog Post 4: pdates to the Arachnotron and The Problem with Unity Collisions (2/10/19)](https://nicholasrobbins.github.io/SeniorProductionBlogFour)**
 
 ---
-### **[Blog Post 5: Make Systems, Not Individual Features (2/17/19)]
-(https://nicholasrobbins.github.io/SeniorProductionBlogFive)**
+### **[Blog Post 5: Make Systems, Not Individual Features (2/17/19)](https://nicholasrobbins.github.io/SeniorProductionBlogFive)**
 
 ---
-### **[Blog Post 6: Wise Words From Karthik Bala (2/24/19)]
-(https://nicholasrobbins.github.io/SeniorProductionBlogSix)**
+### **[Blog Post 6: Wise Words From Karthik Bala (2/24/19)](https://nicholasrobbins.github.io/SeniorProductionBlogSix)**
