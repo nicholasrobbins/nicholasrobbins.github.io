@@ -23,4 +23,6 @@ Senior Capstone Production Blog
 ---
 ### **[Blog Post 7: "Nick Week" - Cutscene System](https://nicholasrobbins.github.io/SeniorProductionBlogSeven)**
 
+---
+### **[Blog Post 8: Arachnotron at Pax East](https://nicholasrobbins.github.io/SeniorProductionBlogEight)**
 
