@@ -9,13 +9,18 @@ Senior Capstone Production Blog
 ### **[Blog Post 2: Working Through Greenlight](https://nicholasrobbins.github.io/SeniorProductionBlogTwo)**
 
 ---
-### **[Blog Post 3: The AI Director - Beginning of the Anthill Level (2/3/19)](https://nicholasrobbins.github.io/SeniorProductionBlogThree)**
+### **[Blog Post 3: The AI Director - Beginning of the Anthill Level](https://nicholasrobbins.github.io/SeniorProductionBlogThree)**
 
 ---
-### **[Blog Post 4: pdates to the Arachnotron and The Problem with Unity Collisions (2/10/19)](https://nicholasrobbins.github.io/SeniorProductionBlogFour)**
+### **[Blog Post 4: pdates to the Arachnotron and The Problem with Unity Collisions](https://nicholasrobbins.github.io/SeniorProductionBlogFour)**
 
 ---
-### **[Blog Post 5: Make Systems, Not Individual Features (2/17/19)](https://nicholasrobbins.github.io/SeniorProductionBlogFive)**
+### **[Blog Post 5: Make Systems, Not Individual Features](https://nicholasrobbins.github.io/SeniorProductionBlogFive)**
 
 ---
-### **[Blog Post 6: Wise Words From Karthik Bala (2/24/19)](https://nicholasrobbins.github.io/SeniorProductionBlogSix)**
+### **[Blog Post 6: Wise Words From Karthik Bala](https://nicholasrobbins.github.io/SeniorProductionBlogSix)**
+
+---
+### **[Blog Post 7: "Nick Week" - Cutscene System](https://nicholasrobbins.github.io/SeniorProductionBlogSeven)**
+
+
