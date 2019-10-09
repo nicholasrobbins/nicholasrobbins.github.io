@@ -11,7 +11,7 @@ Arachnotron is a 3rd person shooter where the player takes control of a robot sp
 Most of my work consisted of AI implementation of the small enemies and the final boss, and backend systems which includes AI systems which allowed the enemies to deal with the complete three-dimensional movement of the player. Other work that I did included the inverse kinematics of the spider legs on the tank itself, which was used to make the spider feel a lot more realistic to the player while also reducing tremendous amount of work off of our artist.
 
 **Click the image for the game's full trailer!**
-![Eye Lasers PNG](https://www.youtube.com/watch?v=9ssWFu5WxMA)
+[![Arachnotron](https://telden.github.io/images/Arachnotron.png)
 
 [Download Here](https://wrong-warp-games.itch.io/arachnotron)
 
