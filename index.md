@@ -3,14 +3,16 @@
 
  
 
-## **Eye Lasers - Game Maker's Toolkit Game Jam 2018**
-**Local Competitive**  |  **(Unity 2017, C#)**  |  **Team Size: 2**  |  **2018** 
+## **Arachnotron - Champlain College Senior Production**
+**Solo 3rd Person Shooter**  |  **(Unity 2018, C#)**  |  **Team Size: 13**  |  **2018 - 2019** 
 
-Based off of the game jam's prompt, "A game genre with a missing core mechanic," Eye Lasers is a first person shooter with no guns. Instead, the players merely have to look at their opponent to deal damage as long as they have a clear sight on them. Every point of damage counts in this fast paced action game.
+Arachnotron is a 3rd person shooter where the player takes control of a robot spider tank to fight against enemy robot bugs from the enemy faction S.W.A.R.M. In this game, the player has the capability to walk on any surface of the environment allowing new dimensions of gameplay to occur that is not traditional within the shooter genere. 
+
+Most of my work consisted of AI implementation of the small enemies and the final boss, and backend systems which includes AI systems which allowed the enemies to deal with the complete three-dimensional movement of the player. Other work that I did included the inverse kinematics of the spider legs on the tank itself, which was used to make the spider feel a lot more realistic to the player while also reducing tremendous amount of work off of our artist.
 
 ![Eye Lasers PNG](https://img.itch.zone/aW1hZ2UvMzAwNzg0LzE0NzEzMjYucG5n/original/yS1v34.png)
 
-[Download Here](https://matthewroy.itch.io/eye-lasers)
+[Download Here](https://wrong-warp-games.itch.io/arachnotron)
 
 
 ## **Opportunity Knocks - Global Game Jam 2018**
@@ -37,9 +39,6 @@ Project made within Champlain College's Production 2 course.
 **Click the gif for the game's full trailer!**
 
 [![RV Punch Gif](https://media.giphy.com/media/fQMHhFbXYS15GWVcC8/giphy.gif)](https://www.youtube.com/watch?v=mn1Y-4wrkfY "RV Punch")
-
-
-_Currently under development_
 
 
 ## **Tile-Fall - (Unity 5, C#)**
