@@ -15,7 +15,8 @@ Most of my work consisted of AI implementation of the small enemies and the fina
 
 [Download Here](https://wrong-warp-games.itch.io/arachnotron)
 
-## 
+
+
 
 ## **RV Punch**
 **Action Racing-Game**  |  **(Unity 2017, C#)**  |  **Team Size: 8**  |  **2018** 
@@ -34,7 +35,8 @@ Project made within Champlain College's Production 2 course.
 
 [Download Here](https://milkshed-games.itch.io/rvpunch)
 
-## 
+
+
 
 ## **Opportunity Knocks - Global Game Jam 2018**
 **Adventure**  |  **(Unity 2017, C#)**  |  **Team Size: 4**  |  **2018** 
@@ -47,7 +49,8 @@ This game's main mechanic inspired by the jam's theme of "transmission" has the 
 
 [Download Here](https://globalgamejam.org/2018/games/opportunity-knocks)
 
-## 
+
+
 
 ## **Tile-Fall - (Unity 5, C#)**
 **PvP Strategy Game**  |  **(Unity 2017, C#)**  |  **Team Size: 4**  |  **2017** 
@@ -59,7 +62,8 @@ Tile-Fall can best be described as "Battleship, but you see the other player." E
 
 [Download Here](https://drive.google.com/file/d/1RMaQoPNHq_EggR_bJ-dGrhc2KXwAAGXE/view?usp=sharing)
 
-## 
+
+
 
 ## **Zelda Dungeon Recreation - (C++)** 
 **Dungeon Crawler**  |  **C++**  |  **Team Size: 2**  |  **2017** 
