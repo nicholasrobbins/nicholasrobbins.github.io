@@ -27,7 +27,7 @@ Project made within Champlain College's Production 2 course.
 
 **Click the gif for the game's full trailer!**
 
-[![RV Punch Gif](https://media.giphy.com/media/9VtKPiHFVRsvIM8RPN/giphy.gif)](https://www.youtube.com/watch?v=mn1Y-4wrkfY)
+[![RV Punch Gif](https://media.giphy.com/media/9VtKPiHFVRsvIM8RPN/giphy.gif)](https://www.youtube.com/watch?v=mn1Y-4wrkfY "RV Punch")
 
 [Download Here](https://milkshed-games.itch.io/rvpunch)
 
