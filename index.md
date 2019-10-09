@@ -10,9 +10,26 @@ Arachnotron is a 3rd person shooter where the player takes control of a robot sp
 
 Most of my work consisted of AI implementation of the small enemies and the final boss, and backend systems which includes AI systems which allowed the enemies to deal with the complete three-dimensional movement of the player. Other work that I did included the inverse kinematics of the spider legs on the tank itself, which was used to make the spider feel a lot more realistic to the player while also reducing tremendous amount of work off of our artist.
 
-![Eye Lasers PNG](https://img.itch.zone/aW1hZ2UvMzAwNzg0LzE0NzEzMjYucG5n/original/yS1v34.png)
+**Click the image for the game's full trailer!**
+![Eye Lasers PNG](https://www.youtube.com/watch?v=9ssWFu5WxMA)
 
 [Download Here](https://wrong-warp-games.itch.io/arachnotron)
+
+
+## **RV Punch**
+**Action Racing-Game**  |  **(Unity 2017, C#)**  |  **Team Size: 8**  |  **2018** 
+
+### **[Multiple Award Winner](https://nicholasrobbins.github.io/RvPunchAwards)**
+   
+Players punch their opponents out of their way in this up to four player racing game, where they race as different model RVs equppied with giant mech fists. These fists act as the game's main mechanic which can be used to punch other racers off the track or stun them, activate or break objects within the racetrack environment, and even "jump" off the walls by punching them. 
+
+Project made within Champlain College's Production 2 course.
+
+**Click the gif for the game's full trailer!**
+
+[![RV Punch Gif](https://media.giphy.com/media/9VtKPiHFVRsvIM8RPN/giphy.gif)](https://www.youtube.com/watch?v=mn1Y-4wrkfY)
+
+[Download Here](https://milkshed-games.itch.io/rvpunch)
 
 
 ## **Opportunity Knocks - Global Game Jam 2018**
@@ -27,20 +44,6 @@ This game's main mechanic inspired by the jam's theme of "transmission" has the 
 [Download Here](https://globalgamejam.org/2018/games/opportunity-knocks)
 
 
-## **RV Punch**
-**Action Racing-Game**  |  **(Unity 2017, C#)**  |  **Team Size: 8**  |  **2018** 
-
-### **[Multiple Award Winner](https://nicholasrobbins.github.io/RvPunchAwards)**
-   
-Players punch their opponents out of their way in this up to four player racing game, where they race as different model RVs equppied with giant mech fists. These fists act as the game's main mechanic which can be used to punch other racers off the track or stun them, activate or break objects within the racetrack environment, and even "jump" off the walls by punching them. 
-
-Project made within Champlain College's Production 2 course.
-
-**Click the gif for the game's full trailer!**
-
-[![RV Punch Gif](https://media.giphy.com/media/fQMHhFbXYS15GWVcC8/giphy.gif)](https://www.youtube.com/watch?v=mn1Y-4wrkfY "RV Punch")
-
-
 ## **Tile-Fall - (Unity 5, C#)**
 **PvP Strategy Game**  |  **(Unity 2017, C#)**  |  **Team Size: 4**  |  **2017** 
 
@@ -50,17 +53,6 @@ Tile-Fall can best be described as "Battleship, but you see the other player." E
 
 
 [Download Here](https://drive.google.com/file/d/1RMaQoPNHq_EggR_bJ-dGrhc2KXwAAGXE/view?usp=sharing)
-
-
-
-## **Battle Beetles- (Unity 5, C#)**
-**3D Fighter**  |  **(Unity 2017, C#)**  |  **Team Size: 4**  |  **2017-2018** 
-
-Players play as small mech bettles and fight it out using their special abilities in large natural environments.
-
-![Battle Beetles Gif](https://media.giphy.com/media/23ZJNCnFnwTs6HKTbC/giphy.gif)
-
-_Currently under development_
 
 
 ## **Zelda Dungeon Recreation - (C++)** 
