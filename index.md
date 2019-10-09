@@ -21,7 +21,9 @@ Most of my work consisted of AI implementation of the small enemies and the fina
 
 ### **[Multiple Award Winner](https://nicholasrobbins.github.io/RvPunchAwards)**
    
-Players punch their opponents out of their way in this up to four player racing game, where they race as different model RVs equppied with giant mech fists. These fists act as the game's main mechanic which can be used to punch other racers off the track or stun them, activate or break objects within the racetrack environment, and even "jump" off the walls by punching them. 
+Players punch their opponents out of their way in this up to four player racing game, where they race as different model RVs equppied with giant mechanical fists. These fists act as the game's main mechanic which can be used to punch other racers off the track or stun them, and even "jump" off the walls by punching them. 
+
+For this project, I primarily worked on backend systems for the races and the main menu UI.
 
 Project made within Champlain College's Production 2 course.
 
@@ -35,7 +37,7 @@ Project made within Champlain College's Production 2 course.
 ## **Opportunity Knocks - Global Game Jam 2018**
 **Adventure**  |  **(Unity 2017, C#)**  |  **Team Size: 4**  |  **2018** 
 
-This game's main mechanic inspired by the jam's theme of "transmission" has the player control the mars rover as it moves across the surface of the planet, but because of the weak connection between the player and the rover, the signal that you transmit to it is laggy. By making lag a central game mechanic, the player must be careful by not driving the rover down a cliffside and make it to the end of each level. The player may choose to "boost" the signal to reduce the lag, at the cost of using up more energy.
+This game's main mechanic inspired by the jam's theme of "transmission" has the player control the mars rover as it moves across the surface of the planet. Because of the weak connection between the player and the rover, the signal that you transmit to it is laggy. By making lag a central game mechanic, the player must be careful not to drive the rover down a cliffside and make it to the end of each level. The player may choose to "boost" the signal to reduce the lag, at the cost of using up more energy.
 
 **Click the gif for the game's demo!**
 
