@@ -3,6 +3,24 @@
 
  
 
+## **Panic - MilkShed Games Internal Project**
+**Action Strategy** |  **(Unity 2019, C#)**  |  **Team Size: 6**  |  **2019 - 2020** 
+
+In Panic the player must navigate themself through a hostile environment where the enemies move when they do. The goal is to pick up keystones scattered within a level to unlock the exit, while also trying to complete it within the fewest steps possible. When coming within the sight of certain enemies the player will "panic" which releases them from the grid for free movement while all of the enemies start acting on their own. Using the panic mechanic is the best way to obtain the best score!
+
+For this project I worked primarily on setting up the AI infrustructure which coincided with a design pipline for creating levels. Using Unity's tilemap system, the designers of the team were able to go in and block out levels using the sprites within the tilemap. Then by clicking the generate button in the navmesh tool I created, it would look through all the sprites within the tilemap and place nodes at legal positions. After that is done, it would then link each node to its neighbors so that it could be used for the A-Star pathfinding for the enemies later. This system did include allowing diagonal connections as well for possible enemy types in the future but was never used in the end. 
+
+Other aspects of the level design pipeline included level data objects that were used for loading levels and determining whether or not the player reached a new high score or were within the steps range for bronze, silver, and gold. With these medals, I added in skin unlocks for the player once they completed the game, and gained all of the different types of medals. 
+
+The other aspects of the game I worked on included most of the UI, level tranistions and loading, and setting up all of the main level select screen. The level select screen in particular included splines between each level and kept track of the player's highest score and tier of medal they achieved on that level.
+
+**Click the image for the game's full trailer!**
+
+[![Tile Fall Screencap](https://nicholasrobbins.github.io/images/Panic.png)](https://www.youtube.com/watch?v=GD_jvedD5WY)
+
+[Download Here](https://milkshed-games.itch.io/panic-2020)
+ 
+
 ## **Arachnotron - Champlain College Senior Production**
 **Solo 3rd Person Shooter**  |  **(Unity 2018, C#)**  |  **Team Size: 13**  |  **2018 - 2019** 
 
@@ -30,6 +48,7 @@ For this project, I primarily worked on backend systems for the races and the ma
 Project made within Champlain College's Production 2 course.
 
 **Click the gif for the game's full trailer!**
+
 
 [![RV Punch Gif](https://media.giphy.com/media/9VtKPiHFVRsvIM8RPN/giphy.gif)](https://www.youtube.com/watch?v=mn1Y-4wrkfY "RV Punch")
 
