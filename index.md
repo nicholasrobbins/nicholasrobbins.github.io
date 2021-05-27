@@ -3,6 +3,17 @@
 
  
 
+## **Wash: Water Trucking and Cost Recovery Systems for the Cornerstone Foundation**
+**Educational Web App** |  **(Phaser 3, JavaScript, JSON)**  |  **Team Size: 4**  |  **June 2020 - May 2021** 
+
+WASH is an educational web app created in the Phaser 3 and packaged for the Scorm platform to teach the user how to create and maintain safe and financially secure water systems within community in need of water. I as a contractor through [Weathered Sweater](https://www.weatheredsweater.com/) and worked alongside members of [GameTheory](https://www.gametheoryco.com/) to create this product for [The Cornerstone Foundation](https://www.cornerstoneondemand.org/). The final product was released in both English and Arabic for the Cornerstone Scorm LMS.
+
+The project is broken down into multiple different types of activities strung along together to make lessons, which multiple lessons makes a module. I focused on building out the different content lessons within the project. One of the largest parts of this was helping in creating a data driven system that uses JSON files that contain information for creating each activity in a lesson which expedited the creation of new content. I also specifically created the Ispy, Ispy quiz, flip cards, clickable, and the final review which culminates all of the lessons at the end of each module. 
+
+
+[Click here to visit the WASH webpage](https://get.disasterready.org/water-trucking-and-cost-recovery-online-training/)
+ 
+
 ## **Panic - MilkShed Games Internal Project**
 **Action Strategy** |  **(Unity 2019, C#)**  |  **Team Size: 6**  |  **2019 - 2020** 
 
